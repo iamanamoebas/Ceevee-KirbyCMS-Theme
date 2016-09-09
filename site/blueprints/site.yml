@@ -1,0 +1,29 @@
+title: Site
+files: true
+pages: false
+fields:
+  tab:
+    label: Titel
+    type:  tabs
+    icon: pencil
+  title:
+    label: Title
+    type:  text 
+  tab1:
+    label: Copyright
+    type:  tabs
+    icon: copyright
+  copyright:
+      label: Copyright
+      type:  textarea
+      icon: copyright
+  tab2:
+    label: Favicon
+    type:  tabs
+    icon: file
+  favicon:
+      label: Favicon
+      type: image
+      help:
+        de: Favicon größe 16x16
+        en: Image size 16x16

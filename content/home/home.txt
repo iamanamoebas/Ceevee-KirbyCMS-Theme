@@ -1,0 +1,34 @@
+Title: I'm Ceevee
+
+----
+
+Text: This is Ceevee a Free HTML5 Template From (link: http://www.styleshout.com/ text: styleshout.com popup: yes) Converted to Kirby  by (twitter: @krullsimon2015 text: Simon Krull). Made whit ♥ and (link: http://getkirby.com text: Kirby CMS popup: yes)
+
+----
+
+Icons: 
+
+- 
+  icon: twitter
+  link: http://getkirby.com
+  label: Twitter
+- 
+  icon: facebook
+  link: http://getkirby.com
+  label: Facebook
+- 
+  icon: github
+  link: http://getkirby.com
+  label: Github
+- 
+  icon: skype
+  link: http://getkirby.com
+  label: Skype
+
+----
+
+Keywords: Ceevee,Responsive,Wild&Free,KirbyCMS
+
+----
+
+Description: Thats Ceevee, a super simple landing page template by (link: http://www.styleshout.com/free-templates/ceevee/ text: styleshout.com)

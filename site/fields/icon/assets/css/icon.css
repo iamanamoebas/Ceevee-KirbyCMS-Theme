@@ -1,0 +1,9 @@
+/* highlight the icon, after a change */
+
+.field-icon {
+  transition: background-color .75s ease-in-out;
+}
+
+.field-icon.icon-change {
+  background: #dadada;
+}

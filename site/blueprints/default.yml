@@ -1,0 +1,50 @@
+title: Page
+pages: false
+files: true
+fields:
+  tab:
+    label: Titel
+    type:  tabs
+    icon: pencil
+  title:
+    label: Title
+    type:  text
+  keywords:
+    label: Keywords
+    type:  tags
+  description:
+    label: Description
+    type:  textarea     
+  tab2:
+    label: Text
+    type: tabs
+    icon: pencil
+  text:
+    label: Text
+    type:  textarea
+  tab3:
+    label: Social Icons
+    type:  tabs
+    icon: navicon
+  icons:
+    label: Social Icons
+    type: structure
+    style: items
+    modalsize: medium
+    entry: >
+        {{label}}: <i class="fa fa-{{icon}}"></i>
+        <p>URL: {{link}}</>
+    fields:
+      icon:
+        label: Icon
+        type: icon
+        placeholder: heart-o
+        help: All icons available at <a href="http://fontawesome.io/icons/">fontawesome.io</a>
+      link:
+        label: URL
+        type: url
+        icon: link
+      label:
+        label: Link label
+        type: text
+        icon: font

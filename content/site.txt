@@ -1,0 +1,9 @@
+Title: Ceevee Responsive Theme
+
+----
+
+Copyright: Copyright: (link: http://www.styleshout.com/free-templates/ceevee/ text: Design by styleshout.com popup: yes)
+
+----
+
+Favicon: favicon.png
